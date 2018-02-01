@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: poze podstawowe
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/main
+    localPosition: {x: -1.6192065, y: -1.1800997, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7048867, w: -0.70932}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors
+    localPosition: {x: 0.27, y: -0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.00950613, w: 0.9999548}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "Bones/main/ktors/kg\u0142owa"
+    localPosition: {x: 1.700041, y: -7.1054274e-15, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.00000000876518, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark1
+    localPosition: {x: 1.5264634, y: 0.7585981, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.77397746, w: 0.63321316}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark1/kramie1
+    localPosition: {x: 0.27710468, y: -0.0000005662441, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.56707543, w: 0.82366586}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark1/kramie1/kprzedramie1
+    localPosition: {x: 0.97950196, y: -0.0000003874302, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.39754966, w: 0.91758066}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark1/kramie1/kprzedramie1/kmiecz
+    localPosition: {x: 0.571971, y: -4.656613e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6715217, w: 0.7409849}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark2
+    localPosition: {x: 1.5401849, y: -0.8880551, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7071072, w: 0.7071064}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark2/kramie2
+    localPosition: {x: 0.37000024, y: 0.00000044703484, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.75705934, w: 0.6533461}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/ktors/kbark2/kramie2/kprzedramie2
+    localPosition: {x: 0.9999999, y: 0.00000023841858, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.3507853, w: 0.93645597}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/kudo1
+    localPosition: {x: -0.02857441, y: 0.40181917, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9999212, w: 0.012552722}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/kudo1/knoga1
+    localPosition: {x: 0.5900001, y: -0.0000000011275461, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/kudo1/knoga1/kstopa1
+    localPosition: {x: 1.203014, y: -0.00000035762787, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7027294, w: 0.7114572}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/kudo2
+    localPosition: {x: -0.050029017, y: -0.3970986, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99998283, w: 0.0058609666}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/kudo2/knoga2
+    localPosition: {x: 0.56000006, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/main/kudo2/knoga2/kstopa2
+    localPosition: {x: 1.1872172, y: 0.00000024774997, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7061504, w: -0.70806193}
+    localScale: {x: 1, y: 1, z: 1}

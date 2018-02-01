@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\OnClickSwitchScene.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SkeletonUnit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Unit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FieldOfView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TurnSystemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\OnSliderValueChanged.cs" Line="22" Column="32" />
+      <File FileName="Assets\Scripts\Menu\OnClickSwitchScene.cs" Line="8" Column="9" />
+      <File FileName="Assets\Scripts\Menu\OnClickExit.cs" Line="8" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 0649fb3f3546fd544849a3986221c45f
+timeCreated: 1511124814
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_1_czesci_0
+    21300002: Character_1_czesci_1
+    21300004: Character_1_czesci_2
+    21300006: Character_1_czesci_3
+    21300008: Character_1_czesci_4
+    21300010: Character_1_czesci_5
+    21300012: Character_1_czesci_6
+    21300014: Character_1_czesci_7
+    21300016: Character_1_czesci_8
+    21300018: Character_1_czesci_9
+    21300020: Character_1_czesci_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_1_czesci_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 257
+        height: 303
+      alignment: 9
+      pivot: {x: 0.4708467, y: 0.17498639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_1
+      rect:
+        serializedVersion: 2
+        x: 291.5
+        y: 444
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.79760265, y: 0.39292398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 515
+        width: 129
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25240946, y: 0.4388133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 284
+        width: 106
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5330189, y: 0.1102892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 181.00002
+        width: 220
+        height: 235.99998
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.099632405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 344
+        width: 142
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4156537, y: 0.828592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_6
+      rect:
+        serializedVersion: 2
+        x: 6.500023
+        y: 9
+        width: 103
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5952967, y: 0.89211017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14.000023
+        width: 118
+        height: 218
+      alignment: 9
+      pivot: {x: 0.4097762, y: 0.8662745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 6.5000305
+        width: 78
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5170613, y: 0.8211898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 122
+        width: 142
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3969103, y: 0.8554305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character_1_czesci_10
+      rect:
+        serializedVersion: 2
+        x: 451.49997
+        y: 0
+        width: 79.00003
+        height: 123
+      alignment: 9
+      pivot: {x: 0.49785817, y: 0.806949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99033073156389
+  assetBundleName: 
+  assetBundleVariant: 
